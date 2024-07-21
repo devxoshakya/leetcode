@@ -8,8 +8,17 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devxoshakya/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devxoshakya/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devxoshakya/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
