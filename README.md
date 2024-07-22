@@ -18,9 +18,15 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
