@@ -17,11 +17,12 @@ public class Solution {
             fast = fast.next.next;
             if (slow == fast) break;
         }
-        if (fast == null || fast.next == null) return null;
-        while (head != slow) {
-            head = head.next;
+
+        if(fast == null || fast.next == null) return null;
+        while(slow!=head){
             slow = slow.next;
-        }
+            head = head.next;
+        }      
         return head;
     }
 }
