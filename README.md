@@ -88,6 +88,7 @@ Collection of LeetCode questions and their solutions.
 | [0084-largest-rectangle-in-histogram](https://github.com/devxoshakya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2048-build-array-from-permutation](https://github.com/devxoshakya/leetcode/tree/master/2048-build-array-from-permutation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,4 +178,8 @@ Collection of LeetCode questions and their solutions.
 | [0098-validate-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devxoshakya/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/devxoshakya/leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
