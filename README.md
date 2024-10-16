@@ -97,6 +97,7 @@ Collection of LeetCode questions and their solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devxoshakya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/devxoshakya/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/devxoshakya/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/devxoshakya/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/devxoshakya/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Counting
