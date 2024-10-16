@@ -103,6 +103,7 @@ Collection of LeetCode questions and their solutions.
 | [1580-shuffle-the-array](https://github.com/devxoshakya/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/devxoshakya/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/devxoshakya/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/devxoshakya/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/devxoshakya/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/devxoshakya/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
+| [1677-matrix-diagonal-sum](https://github.com/devxoshakya/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/devxoshakya/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Counting
 |  |
