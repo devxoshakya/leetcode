@@ -125,6 +125,7 @@ Collection of LeetCode questions and their solutions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/devxoshakya/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devxoshakya/leetcode/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -239,4 +240,8 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/devxoshakya/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
