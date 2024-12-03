@@ -16,6 +16,7 @@ Collection of LeetCode questions and their solutions.
 | [0142-linked-list-cycle-ii](https://github.com/devxoshakya/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/devxoshakya/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devxoshakya/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions and their solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devxoshakya/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devxoshakya/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -47,6 +49,7 @@ Collection of LeetCode questions and their solutions.
 | [0142-linked-list-cycle-ii](https://github.com/devxoshakya/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/devxoshakya/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devxoshakya/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
