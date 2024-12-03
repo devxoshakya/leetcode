@@ -20,6 +20,7 @@ Collection of LeetCode questions and their solutions.
 | [0234-palindrome-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devxoshakya/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions and their solutions.
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devxoshakya/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devxoshakya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devxoshakya/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
