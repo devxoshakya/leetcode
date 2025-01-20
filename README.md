@@ -61,6 +61,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devxoshakya/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions and their solutions.
 | [0013-roman-to-integer](https://github.com/devxoshakya/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devxoshakya/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devxoshakya/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1899-count-items-matching-a-rule](https://github.com/devxoshakya/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -240,6 +242,7 @@ Collection of LeetCode questions and their solutions.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -266,6 +269,7 @@ Collection of LeetCode questions and their solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/devxoshakya/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 ## Trie
