@@ -63,6 +63,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devxoshakya/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/devxoshakya/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/devxoshakya/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
