@@ -9,21 +9,19 @@
 
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
-        int start = 0;
-        int end = n;
-        int mid = -1;
-         while(start<=end){
-            mid = start + (end-start)/2;
-            if(guess(mid)==-1){
-                end = mid-1;
-            }
-            else if(guess(mid)==0){
+        int s=1;
+        int e=n;
+        while(s<e){
+            int mid = (e-s)/2+s;
+            if(guess(mid)==0){
                 return mid;
             }
-            else{
-                start = mid+1;
+            if(guess(mid)== 1){
+                s=mid+1;
+            }else{
+                e=mid;
             }
         }
-        return -1;
+        return e;
     }
 }
