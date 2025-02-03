@@ -69,6 +69,7 @@ Collection of LeetCode questions and their solutions.
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devxoshakya/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
 | [1031-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devxoshakya/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions and their solutions.
 | [0222-count-complete-tree-nodes](https://github.com/devxoshakya/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devxoshakya/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/devxoshakya/leetcode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/devxoshakya/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Simulation
 |  |
