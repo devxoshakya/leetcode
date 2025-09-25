@@ -143,6 +143,7 @@ Collection of LeetCode questions and their solutions.
 | [1580-shuffle-the-array](https://github.com/devxoshakya/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/devxoshakya/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/devxoshakya/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/devxoshakya/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/devxoshakya/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/devxoshakya/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions and their solutions.
 | [0374-guess-number-higher-or-lower](https://github.com/devxoshakya/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/devxoshakya/leetcode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1646-kth-missing-positive-number](https://github.com/devxoshakya/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Simulation
 |  |
 | ------- |
