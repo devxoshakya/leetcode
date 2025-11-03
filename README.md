@@ -51,6 +51,7 @@ Collection of LeetCode questions and their solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/devxoshakya/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions and their solutions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/devxoshakya/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devxoshakya/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
