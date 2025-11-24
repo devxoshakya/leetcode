@@ -136,6 +136,7 @@ Collection of LeetCode questions and their solutions.
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
+| [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devxoshakya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions and their solutions.
 | [0014-longest-common-prefix](https://github.com/devxoshakya/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devxoshakya/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/devxoshakya/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/devxoshakya/leetcode/tree/master/0742-to-lower-case) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions and their solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/devxoshakya/leetcode/tree/master/0100-same-tree) |
@@ -312,6 +315,7 @@ Collection of LeetCode questions and their solutions.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -366,4 +370,8 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
