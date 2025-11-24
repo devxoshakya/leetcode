@@ -76,6 +76,7 @@ Collection of LeetCode questions and their solutions.
 | [0013-roman-to-integer](https://github.com/devxoshakya/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devxoshakya/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/devxoshakya/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/devxoshakya/leetcode/tree/master/0441-arranging-coins) |
@@ -379,9 +380,11 @@ Collection of LeetCode questions and their solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devxoshakya/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/devxoshakya/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devxoshakya/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/devxoshakya/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
