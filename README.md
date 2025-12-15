@@ -390,4 +390,8 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/devxoshakya/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/devxoshakya/leetcode/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/devxoshakya/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
