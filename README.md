@@ -144,6 +144,7 @@ Collection of LeetCode questions and their solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxoshakya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/devxoshakya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0860-design-circular-queue) |
