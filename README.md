@@ -46,6 +46,7 @@ Collection of LeetCode questions and their solutions.
 | [0142-linked-list-cycle-ii](https://github.com/devxoshakya/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devxoshakya/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions and their solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxoshakya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devxoshakya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
