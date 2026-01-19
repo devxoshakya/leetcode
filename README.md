@@ -120,6 +120,7 @@ Collection of LeetCode questions and their solutions.
 | [0232-implement-queue-using-stacks](https://github.com/devxoshakya/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxoshakya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
@@ -158,6 +159,7 @@ Collection of LeetCode questions and their solutions.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devxoshakya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devxoshakya/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/devxoshakya/leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxoshakya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/devxoshakya/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -180,6 +182,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/devxoshakya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxoshakya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
 | ------- |
