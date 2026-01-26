@@ -65,6 +65,7 @@ Collection of LeetCode questions and their solutions.
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devxoshakya/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxoshakya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/devxoshakya/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions and their solutions.
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devxoshakya/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/devxoshakya/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/devxoshakya/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/devxoshakya/leetcode/tree/master/0441-arranging-coins) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions and their solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxoshakya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/devxoshakya/leetcode/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devxoshakya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
