@@ -55,6 +55,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/devxoshakya/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0001-two-sum](https://github.com/devxoshakya/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
