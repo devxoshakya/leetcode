@@ -146,6 +146,7 @@ Collection of LeetCode questions and their solutions.
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devxoshakya/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devxoshakya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions and their solutions.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devxoshakya/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions and their solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/devxoshakya/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devxoshakya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devxoshakya/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
