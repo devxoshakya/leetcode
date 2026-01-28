@@ -1,23 +1,23 @@
 class RandomizedSet {
 
-    HashMap<Integer, Boolean> map;
+    HashSet<Integer> set;
 
     public RandomizedSet() {
-        map = new HashMap<>();
+        set = new HashSet<>();
     }
 
     public boolean insert(int val) {
-        if (map.containsKey(val)) {
+        if (set.contains(val)) {
             return false;
         } else {
-            map.put(val, true);
+            set.add(val);
             return true;
         }
     }
 
     public boolean remove(int val) {
-        if (map.containsKey(val)) {
-            map.remove(val);
+        if (set.contains(val)) {
+            set.remove(val);
             return true;
         } else {
             return false;
@@ -25,10 +25,9 @@ class RandomizedSet {
     }
 
     public int getRandom() {
-        Set<Integer> set = map.keySet();
-
-        return set.stream().skip(new Random().nextInt(set.size())).findFirst().orElse(null);
-
+        List<Integer> list = new ArrayList<>(set);
+        int rand = (int)(Math.random()*list.size());
+        return list.get(rand);
     }
 }
 
