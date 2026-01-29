@@ -163,6 +163,7 @@ Collection of LeetCode questions and their solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devxoshakya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devxoshakya/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/devxoshakya/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/devxoshakya/leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxoshakya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devxoshakya/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions and their solutions.
 | [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devxoshakya/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/devxoshakya/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/devxoshakya/leetcode/tree/master/0135-candy) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
