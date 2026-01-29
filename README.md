@@ -45,6 +45,7 @@ Collection of LeetCode questions and their solutions.
 | [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devxoshakya/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devxoshakya/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions and their solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@ Collection of LeetCode questions and their solutions.
 | [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -165,6 +168,7 @@ Collection of LeetCode questions and their solutions.
 | [0134-gas-station](https://github.com/devxoshakya/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/devxoshakya/leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxoshakya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/devxoshakya/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
@@ -365,6 +369,7 @@ Collection of LeetCode questions and their solutions.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devxoshakya/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
