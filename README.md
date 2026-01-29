@@ -164,6 +164,7 @@ Collection of LeetCode questions and their solutions.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devxoshakya/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxoshakya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devxoshakya/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions and their solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/devxoshakya/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
