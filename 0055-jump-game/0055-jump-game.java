@@ -3,12 +3,12 @@ class Solution {
         int gas = 0;
         for(int i : nums){
             if(gas < 0) return false;
-
-            if(i > gas) {
+            if(i > gas){
                 gas = i;
             }
-            gas -= 1;
+            gas--;
         }
         return true;
+        
     }
 }
