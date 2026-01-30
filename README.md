@@ -59,6 +59,7 @@ Collection of LeetCode questions and their solutions.
 | [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/devxoshakya/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devxoshakya/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0088-merge-sorted-array) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devxoshakya/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devxoshakya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions and their solutions.
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devxoshakya/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
@@ -208,6 +211,7 @@ Collection of LeetCode questions and their solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devxoshakya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxoshakya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
@@ -424,6 +428,7 @@ Collection of LeetCode questions and their solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devxoshakya/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/devxoshakya/leetcode/tree/master/0070-climbing-stairs) |
