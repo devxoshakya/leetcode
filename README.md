@@ -68,6 +68,7 @@ Collection of LeetCode questions and their solutions.
 | [0142-linked-list-cycle-ii](https://github.com/devxoshakya/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/devxoshakya/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devxoshakya/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxoshakya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devxoshakya/leetcode/tree/master/0189-rotate-array) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions and their solutions.
 | [0058-length-of-last-word](https://github.com/devxoshakya/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/devxoshakya/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/devxoshakya/leetcode/tree/master/0742-to-lower-case) |
