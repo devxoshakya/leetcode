@@ -5,8 +5,8 @@ class Solution {
 
         List<Integer> ans = new ArrayList<>();
 
-        int i = n;
-        while ( --i >= 0 || curr > 0){
+        int  i = n;
+        while ( --i >=0 || curr > 0){
             if(i >= 0){
                 curr += num[i];
             }
