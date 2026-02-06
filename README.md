@@ -112,6 +112,7 @@ Collection of LeetCode questions and their solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/devxoshakya/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions and their solutions.
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devxoshakya/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/devxoshakya/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devxoshakya/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devxoshakya/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/devxoshakya/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/devxoshakya/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devxoshakya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
