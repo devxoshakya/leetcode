@@ -124,6 +124,7 @@ Collection of LeetCode questions and their solutions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/devxoshakya/leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -446,6 +447,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/devxoshakya/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/devxoshakya/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
