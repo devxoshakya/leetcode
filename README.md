@@ -57,6 +57,7 @@ Collection of LeetCode questions and their solutions.
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/devxoshakya/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/devxoshakya/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0860-design-circular-queue) |
 ## Array
 |  |
@@ -259,6 +261,7 @@ Collection of LeetCode questions and their solutions.
 | [0205-isomorphic-strings](https://github.com/devxoshakya/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devxoshakya/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/devxoshakya/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/devxoshakya/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/devxoshakya/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -433,6 +436,7 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/devxoshakya/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devxoshakya/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
