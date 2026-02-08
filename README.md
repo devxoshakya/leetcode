@@ -104,6 +104,7 @@ Collection of LeetCode questions and their solutions.
 | [0189-rotate-array](https://github.com/devxoshakya/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/devxoshakya/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/devxoshakya/leetcode/tree/master/0412-fizz-buzz) |
@@ -524,4 +525,12 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/devxoshakya/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/devxoshakya/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
