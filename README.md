@@ -35,6 +35,7 @@ Collection of LeetCode questions and their solutions.
 | [0203-remove-linked-list-elements](https://github.com/devxoshakya/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/devxoshakya/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/devxoshakya/leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ Collection of LeetCode questions and their solutions.
 | [0202-happy-number](https://github.com/devxoshakya/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/devxoshakya/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/devxoshakya/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/devxoshakya/leetcode/tree/master/0412-fizz-buzz) |
