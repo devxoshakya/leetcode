@@ -244,6 +244,7 @@ Collection of LeetCode questions and their solutions.
 | [2058-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2350-find-closest-number-to-zero](https://github.com/devxoshakya/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [3285-find-indices-of-stable-mountains](https://github.com/devxoshakya/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 ## Monotonic Stack
 |  |
 | ------- |
