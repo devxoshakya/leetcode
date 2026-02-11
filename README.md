@@ -301,6 +301,7 @@ Collection of LeetCode questions and their solutions.
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/devxoshakya/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [3110-score-of-a-string](https://github.com/devxoshakya/leetcode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/devxoshakya/leetcode/tree/master/3280-convert-date-to-binary) |
 ## Greedy
 |  |
