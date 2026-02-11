@@ -255,6 +255,7 @@ Collection of LeetCode questions and their solutions.
 | [2058-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2350-find-closest-number-to-zero](https://github.com/devxoshakya/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3151-special-array-i](https://github.com/devxoshakya/leetcode/tree/master/3151-special-array-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/devxoshakya/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/devxoshakya/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions and their solutions.
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/devxoshakya/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/devxoshakya/leetcode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/devxoshakya/leetcode/tree/master/3280-convert-date-to-binary) |
 ## Greedy
@@ -480,10 +482,12 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devxoshakya/leetcode/tree/master/0014-longest-common-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Interactive
 |  |
 | ------- |
@@ -564,4 +568,12 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/devxoshakya/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
