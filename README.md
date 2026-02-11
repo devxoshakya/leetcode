@@ -257,6 +257,7 @@ Collection of LeetCode questions and their solutions.
 | [2350-find-closest-number-to-zero](https://github.com/devxoshakya/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [3028-ant-on-the-boundary](https://github.com/devxoshakya/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/devxoshakya/leetcode/tree/master/3033-modify-the-matrix) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/devxoshakya/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3151-special-array-i](https://github.com/devxoshakya/leetcode/tree/master/3151-special-array-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/devxoshakya/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions and their solutions.
 | [2048-build-array-from-permutation](https://github.com/devxoshakya/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/2058-concatenation-of-array) |
 | [3028-ant-on-the-boundary](https://github.com/devxoshakya/leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/devxoshakya/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Prefix Sum
 |  |
 | ------- |
