@@ -45,6 +45,7 @@ Collection of LeetCode questions and their solutions.
 | [0012-integer-to-roman](https://github.com/devxoshakya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devxoshakya/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devxoshakya/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/devxoshakya/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/devxoshakya/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions and their solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/devxoshakya/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devxoshakya/leetcode/tree/master/0045-jump-game-ii) |
@@ -471,6 +473,7 @@ Collection of LeetCode questions and their solutions.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/devxoshakya/leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
