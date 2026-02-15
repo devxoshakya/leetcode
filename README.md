@@ -264,6 +264,7 @@ Collection of LeetCode questions and their solutions.
 | [2058-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2350-find-closest-number-to-zero](https://github.com/devxoshakya/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/devxoshakya/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3028-ant-on-the-boundary](https://github.com/devxoshakya/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/devxoshakya/leetcode/tree/master/3033-modify-the-matrix) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions and their solutions.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/devxoshakya/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/devxoshakya/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3033-modify-the-matrix](https://github.com/devxoshakya/leetcode/tree/master/3033-modify-the-matrix) |
 ## Counting
 |  |
