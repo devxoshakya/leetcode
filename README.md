@@ -68,6 +68,7 @@ Collection of LeetCode questions and their solutions.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/devxoshakya/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/devxoshakya/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/devxoshakya/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -263,6 +264,7 @@ Collection of LeetCode questions and their solutions.
 | [2058-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2350-find-closest-number-to-zero](https://github.com/devxoshakya/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/devxoshakya/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3028-ant-on-the-boundary](https://github.com/devxoshakya/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/devxoshakya/leetcode/tree/master/3033-modify-the-matrix) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/devxoshakya/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
