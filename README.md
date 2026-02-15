@@ -68,6 +68,7 @@ Collection of LeetCode questions and their solutions.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/devxoshakya/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/devxoshakya/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/devxoshakya/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions and their solutions.
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Math
 |  |
 | ------- |
@@ -264,6 +266,7 @@ Collection of LeetCode questions and their solutions.
 | [2058-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2350-find-closest-number-to-zero](https://github.com/devxoshakya/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/devxoshakya/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3028-ant-on-the-boundary](https://github.com/devxoshakya/leetcode/tree/master/3028-ant-on-the-boundary) |
@@ -603,4 +606,8 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
