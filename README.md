@@ -172,6 +172,7 @@ Collection of LeetCode questions and their solutions.
 | [0094-binary-tree-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/devxoshakya/leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/devxoshakya/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions and their solutions.
 | [0112-path-sum](https://github.com/devxoshakya/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/devxoshakya/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devxoshakya/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/devxoshakya/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions and their solutions.
 | [0112-path-sum](https://github.com/devxoshakya/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/devxoshakya/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devxoshakya/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/devxoshakya/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -421,6 +424,7 @@ Collection of LeetCode questions and their solutions.
 | [0112-path-sum](https://github.com/devxoshakya/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/devxoshakya/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devxoshakya/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0226-invert-binary-tree) |
