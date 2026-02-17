@@ -71,6 +71,7 @@ Collection of LeetCode questions and their solutions.
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/devxoshakya/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/devxoshakya/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/devxoshakya/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -132,6 +133,7 @@ Collection of LeetCode questions and their solutions.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devxoshakya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devxoshakya/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 | [3099-harshad-number](https://github.com/devxoshakya/leetcode/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/devxoshakya/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/devxoshakya/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions and their solutions.
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/devxoshakya/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/devxoshakya/leetcode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/devxoshakya/leetcode/tree/master/3280-convert-date-to-binary) |
@@ -504,6 +507,7 @@ Collection of LeetCode questions and their solutions.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devxoshakya/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -616,4 +620,8 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+## Combinatorics
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
