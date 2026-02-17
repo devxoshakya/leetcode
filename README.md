@@ -252,6 +252,7 @@ Collection of LeetCode questions and their solutions.
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devxoshakya/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devxoshakya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devxoshakya/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devxoshakya/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/devxoshakya/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxoshakya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions and their solutions.
 | [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devxoshakya/leetcode/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devxoshakya/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/devxoshakya/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/devxoshakya/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3028-ant-on-the-boundary](https://github.com/devxoshakya/leetcode/tree/master/3028-ant-on-the-boundary) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions and their solutions.
 | [0076-minimum-window-substring](https://github.com/devxoshakya/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/devxoshakya/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/devxoshakya/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devxoshakya/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
