@@ -67,6 +67,7 @@ Collection of LeetCode questions and their solutions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devxoshakya/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devxoshakya/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions and their solutions.
 | [0509-fibonacci-number](https://github.com/devxoshakya/leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1031-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devxoshakya/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devxoshakya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions and their solutions.
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devxoshakya/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devxoshakya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devxoshakya/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -497,6 +500,7 @@ Collection of LeetCode questions and their solutions.
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devxoshakya/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devxoshakya/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/devxoshakya/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/devxoshakya/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -564,6 +568,7 @@ Collection of LeetCode questions and their solutions.
 | [0219-contains-duplicate-ii](https://github.com/devxoshakya/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/devxoshakya/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devxoshakya/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devxoshakya/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
