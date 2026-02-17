@@ -249,6 +249,7 @@ Collection of LeetCode questions and their solutions.
 | [0918-maximum-sum-circular-subarray](https://github.com/devxoshakya/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devxoshakya/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions and their solutions.
 | [0374-guess-number-higher-or-lower](https://github.com/devxoshakya/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/devxoshakya/leetcode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/devxoshakya/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Simulation
 |  |
@@ -490,6 +492,7 @@ Collection of LeetCode questions and their solutions.
 | [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devxoshakya/leetcode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devxoshakya/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/devxoshakya/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/devxoshakya/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -556,6 +559,7 @@ Collection of LeetCode questions and their solutions.
 | [0209-minimum-size-subarray-sum](https://github.com/devxoshakya/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/devxoshakya/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/devxoshakya/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devxoshakya/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
