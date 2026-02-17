@@ -136,6 +136,7 @@ Collection of LeetCode questions and their solutions.
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devxoshakya/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devxoshakya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devxoshakya/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/devxoshakya/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 | [3099-harshad-number](https://github.com/devxoshakya/leetcode/tree/master/3099-harshad-number) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions and their solutions.
 | [1205-defanging-an-ip-address](https://github.com/devxoshakya/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devxoshakya/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devxoshakya/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/devxoshakya/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/devxoshakya/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devxoshakya/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
