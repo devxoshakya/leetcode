@@ -67,6 +67,7 @@ Collection of LeetCode questions and their solutions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/devxoshakya/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devxoshakya/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devxoshakya/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions and their solutions.
 | [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devxoshakya/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/devxoshakya/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -499,6 +501,7 @@ Collection of LeetCode questions and their solutions.
 | [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devxoshakya/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/devxoshakya/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devxoshakya/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
