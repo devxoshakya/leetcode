@@ -31,6 +31,7 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/devxoshakya/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/devxoshakya/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/devxoshakya/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/devxoshakya/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/devxoshakya/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0206-reverse-linked-list) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions and their solutions.
 | [0009-palindrome-number](https://github.com/devxoshakya/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/devxoshakya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devxoshakya/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/devxoshakya/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devxoshakya/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/devxoshakya/leetcode/tree/master/0070-climbing-stairs) |
