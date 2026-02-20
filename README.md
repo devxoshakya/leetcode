@@ -345,6 +345,7 @@ Collection of LeetCode questions and their solutions.
 | [1205-defanging-an-ip-address](https://github.com/devxoshakya/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devxoshakya/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devxoshakya/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/devxoshakya/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/devxoshakya/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/devxoshakya/leetcode/tree/master/1651-shuffle-string) |
@@ -566,6 +567,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
+| [1392-longest-happy-prefix](https://github.com/devxoshakya/leetcode/tree/master/1392-longest-happy-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Interactive
 |  |
@@ -657,12 +659,14 @@ Collection of LeetCode questions and their solutions.
 ## Rolling Hash
 |  |
 | ------- |
+| [1392-longest-happy-prefix](https://github.com/devxoshakya/leetcode/tree/master/1392-longest-happy-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/devxoshakya/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/devxoshakya/leetcode/tree/master/1392-longest-happy-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
