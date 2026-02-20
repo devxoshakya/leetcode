@@ -337,6 +337,7 @@ Collection of LeetCode questions and their solutions.
 | [0409-longest-palindrome](https://github.com/devxoshakya/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/devxoshakya/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/devxoshakya/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/devxoshakya/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/devxoshakya/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/devxoshakya/leetcode/tree/master/0742-to-lower-case) |
@@ -661,6 +662,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/devxoshakya/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
