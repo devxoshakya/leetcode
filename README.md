@@ -74,6 +74,7 @@ Collection of LeetCode questions and their solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devxoshakya/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devxoshakya/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/devxoshakya/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions and their solutions.
 | [1797-goal-parser-interpretation](https://github.com/devxoshakya/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devxoshakya/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/devxoshakya/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devxoshakya/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/devxoshakya/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -547,6 +549,7 @@ Collection of LeetCode questions and their solutions.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devxoshakya/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devxoshakya/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 ## Bit Manipulation
 |  |
