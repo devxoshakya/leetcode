@@ -24,6 +24,7 @@ Collection of LeetCode questions and their solutions.
 | [0237-delete-node-in-a-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0860-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devxoshakya/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -108,6 +109,7 @@ Collection of LeetCode questions and their solutions.
 | [0392-is-subsequence](https://github.com/devxoshakya/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Math
