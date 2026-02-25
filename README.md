@@ -50,6 +50,7 @@ Collection of LeetCode questions and their solutions.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devxoshakya/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/devxoshakya/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/devxoshakya/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/devxoshakya/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/devxoshakya/leetcode/tree/master/0141-linked-list-cycle) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/devxoshakya/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions and their solutions.
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devxoshakya/leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/devxoshakya/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devxoshakya/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
@@ -327,6 +330,7 @@ Collection of LeetCode questions and their solutions.
 | [0020-valid-parentheses](https://github.com/devxoshakya/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devxoshakya/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/devxoshakya/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devxoshakya/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/devxoshakya/leetcode/tree/master/0076-minimum-window-substring) |
