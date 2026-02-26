@@ -99,6 +99,7 @@ Collection of LeetCode questions and their solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/devxoshakya/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/devxoshakya/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devxoshakya/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devxoshakya/leetcode/tree/master/0125-valid-palindrome) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/devxoshakya/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/devxoshakya/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions and their solutions.
 | [0049-group-anagrams](https://github.com/devxoshakya/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devxoshakya/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/devxoshakya/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devxoshakya/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devxoshakya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
