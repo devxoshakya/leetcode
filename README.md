@@ -24,6 +24,7 @@ Collection of LeetCode questions and their solutions.
 | [0237-delete-node-in-a-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0860-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions and their solutions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devxoshakya/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions and their solutions.
 | [0232-implement-queue-using-stacks](https://github.com/devxoshakya/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0860-design-circular-queue) |
 ## Queue
@@ -266,6 +269,7 @@ Collection of LeetCode questions and their solutions.
 | [0485-max-consecutive-ones](https://github.com/devxoshakya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/devxoshakya/leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
@@ -585,6 +589,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/devxoshakya/leetcode/tree/master/1392-longest-happy-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
