@@ -167,6 +167,7 @@ Collection of LeetCode questions and their solutions.
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devxoshakya/leetcode/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devxoshakya/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -182,6 +183,7 @@ Collection of LeetCode questions and their solutions.
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/devxoshakya/leetcode/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/devxoshakya/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/devxoshakya/leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Stack
 |  |
@@ -276,6 +279,7 @@ Collection of LeetCode questions and their solutions.
 | [0860-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devxoshakya/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devxoshakya/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -619,19 +623,23 @@ Collection of LeetCode questions and their solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
