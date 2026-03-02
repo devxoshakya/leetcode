@@ -220,6 +220,7 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devxoshakya/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devxoshakya/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/devxoshakya/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0706-design-hashmap) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions and their solutions.
 | [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
+| [0304-range-sum-query-2d-immutable](https://github.com/devxoshakya/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/devxoshakya/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -547,6 +549,7 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devxoshakya/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/devxoshakya/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devxoshakya/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devxoshakya/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -561,6 +564,7 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0036-valid-sudoku](https://github.com/devxoshakya/leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
+| [0304-range-sum-query-2d-immutable](https://github.com/devxoshakya/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
