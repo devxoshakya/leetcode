@@ -234,6 +234,7 @@ Collection of LeetCode questions and their solutions.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devxoshakya/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devxoshakya/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/devxoshakya/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0860-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devxoshakya/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions and their solutions.
 | [0219-contains-duplicate-ii](https://github.com/devxoshakya/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/devxoshakya/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devxoshakya/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -632,6 +634,7 @@ Collection of LeetCode questions and their solutions.
 | [0076-minimum-window-substring](https://github.com/devxoshakya/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/devxoshakya/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/devxoshakya/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/devxoshakya/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -641,6 +644,7 @@ Collection of LeetCode questions and their solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/devxoshakya/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
@@ -709,6 +713,7 @@ Collection of LeetCode questions and their solutions.
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devxoshakya/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Rolling Hash
 |  |
