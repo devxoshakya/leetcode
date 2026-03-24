@@ -287,6 +287,7 @@ Collection of LeetCode questions and their solutions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devxoshakya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/devxoshakya/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/devxoshakya/leetcode/tree/master/0724-find-pivot-index) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions and their solutions.
 | [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/devxoshakya/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/devxoshakya/leetcode/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/devxoshakya/leetcode/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/devxoshakya/leetcode/tree/master/1646-kth-missing-positive-number) |
