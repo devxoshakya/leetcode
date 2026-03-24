@@ -248,6 +248,7 @@ Collection of LeetCode questions and their solutions.
 | [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devxoshakya/leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/devxoshakya/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/devxoshakya/leetcode/tree/master/0041-first-missing-positive) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devxoshakya/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/devxoshakya/leetcode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0098-validate-binary-search-tree) |
