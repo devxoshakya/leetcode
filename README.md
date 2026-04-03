@@ -258,6 +258,7 @@ Collection of LeetCode questions and their solutions.
 | [0053-maximum-subarray](https://github.com/devxoshakya/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devxoshakya/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/devxoshakya/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/devxoshakya/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devxoshakya/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devxoshakya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devxoshakya/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/devxoshakya/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/devxoshakya/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/devxoshakya/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions and their solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/devxoshakya/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
