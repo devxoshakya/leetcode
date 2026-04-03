@@ -676,6 +676,7 @@ Collection of LeetCode questions and their solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/devxoshakya/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/devxoshakya/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
