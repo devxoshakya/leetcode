@@ -157,6 +157,7 @@ Collection of LeetCode questions and their solutions.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devxoshakya/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/devxoshakya/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/devxoshakya/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 | [3099-harshad-number](https://github.com/devxoshakya/leetcode/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/devxoshakya/leetcode/tree/master/3280-convert-date-to-binary) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions and their solutions.
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/devxoshakya/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/devxoshakya/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1899-count-items-matching-a-rule](https://github.com/devxoshakya/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1903-largest-odd-number-in-string](https://github.com/devxoshakya/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devxoshakya/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/devxoshakya/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -419,6 +421,7 @@ Collection of LeetCode questions and their solutions.
 | [0409-longest-palindrome](https://github.com/devxoshakya/leetcode/tree/master/0409-longest-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1903-largest-odd-number-in-string](https://github.com/devxoshakya/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
 | ------- |
