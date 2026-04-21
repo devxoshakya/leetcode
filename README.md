@@ -456,6 +456,7 @@ Collection of LeetCode questions and their solutions.
 | [0543-diameter-of-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devxoshakya/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -505,6 +506,7 @@ Collection of LeetCode questions and their solutions.
 | [0543-diameter-of-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devxoshakya/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -551,6 +553,7 @@ Collection of LeetCode questions and their solutions.
 | [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/devxoshakya/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/devxoshakya/leetcode/tree/master/0441-arranging-coins) |
+| [0700-search-in-a-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/devxoshakya/leetcode/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/devxoshakya/leetcode/tree/master/0875-koko-eating-bananas) |
