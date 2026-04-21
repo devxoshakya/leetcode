@@ -292,6 +292,7 @@ Collection of LeetCode questions and their solutions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devxoshakya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/devxoshakya/leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/devxoshakya/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/devxoshakya/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions and their solutions.
 | [0134-gas-station](https://github.com/devxoshakya/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/devxoshakya/leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/devxoshakya/leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/devxoshakya/leetcode/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/devxoshakya/leetcode/tree/master/1903-largest-odd-number-in-string) |
