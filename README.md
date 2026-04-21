@@ -452,6 +452,7 @@ Collection of LeetCode questions and their solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/devxoshakya/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/devxoshakya/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -469,6 +470,7 @@ Collection of LeetCode questions and their solutions.
 | [0199-binary-tree-right-side-view](https://github.com/devxoshakya/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/devxoshakya/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/devxoshakya/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
@@ -499,6 +501,7 @@ Collection of LeetCode questions and their solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/devxoshakya/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/devxoshakya/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -524,6 +527,7 @@ Collection of LeetCode questions and their solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/devxoshakya/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/devxoshakya/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/devxoshakya/leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
