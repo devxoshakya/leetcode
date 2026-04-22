@@ -401,6 +401,7 @@ Collection of LeetCode questions and their solutions.
 | [1392-longest-happy-prefix](https://github.com/devxoshakya/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/devxoshakya/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1544-make-the-string-great](https://github.com/devxoshakya/leetcode/tree/master/1544-make-the-string-great) |
+| [1556-thousand-separator](https://github.com/devxoshakya/leetcode/tree/master/1556-thousand-separator) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/devxoshakya/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devxoshakya/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
