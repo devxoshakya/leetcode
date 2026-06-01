@@ -97,6 +97,7 @@ Collection of LeetCode questions and their solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devxoshakya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/devxoshakya/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devxoshakya/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devxoshakya/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/devxoshakya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/devxoshakya/leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/devxoshakya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devxoshakya/leetcode/tree/master/0013-roman-to-integer) |
@@ -715,6 +717,7 @@ Collection of LeetCode questions and their solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devxoshakya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/devxoshakya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devxoshakya/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devxoshakya/leetcode/tree/master/0053-maximum-subarray) |
