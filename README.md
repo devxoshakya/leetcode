@@ -167,6 +167,7 @@ Collection of LeetCode questions and their solutions.
 | [1903-largest-odd-number-in-string](https://github.com/devxoshakya/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 | [3099-harshad-number](https://github.com/devxoshakya/leetcode/tree/master/3099-harshad-number) |
+| [3270-find-the-key-of-the-numbers](https://github.com/devxoshakya/leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3280-convert-date-to-binary](https://github.com/devxoshakya/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/devxoshakya/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
