@@ -121,6 +121,7 @@ Collection of LeetCode questions and their solutions.
 | [0234-palindrome-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devxoshakya/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/devxoshakya/leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/devxoshakya/leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/devxoshakya/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/devxoshakya/leetcode/tree/master/0647-palindromic-substrings) |
@@ -397,6 +398,7 @@ Collection of LeetCode questions and their solutions.
 | [0409-longest-palindrome](https://github.com/devxoshakya/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/devxoshakya/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/devxoshakya/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/devxoshakya/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/devxoshakya/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/devxoshakya/leetcode/tree/master/0567-permutation-in-string) |
