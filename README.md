@@ -167,6 +167,7 @@ Collection of LeetCode questions and their solutions.
 | [1903-largest-odd-number-in-string](https://github.com/devxoshakya/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 | [3099-harshad-number](https://github.com/devxoshakya/leetcode/tree/master/3099-harshad-number) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/devxoshakya/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3270-find-the-key-of-the-numbers](https://github.com/devxoshakya/leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3280-convert-date-to-binary](https://github.com/devxoshakya/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/devxoshakya/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -596,6 +597,7 @@ Collection of LeetCode questions and their solutions.
 | [2058-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/2058-concatenation-of-array) |
 | [3028-ant-on-the-boundary](https://github.com/devxoshakya/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/devxoshakya/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/devxoshakya/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -763,6 +765,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/devxoshakya/leetcode/tree/master/0292-nim-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/devxoshakya/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Monotonic Queue
 |  |
 | ------- |
