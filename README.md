@@ -230,6 +230,7 @@ Collection of LeetCode questions and their solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devxoshakya/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/devxoshakya/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devxoshakya/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devxoshakya/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions and their solutions.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/devxoshakya/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devxoshakya/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devxoshakya/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devxoshakya/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
