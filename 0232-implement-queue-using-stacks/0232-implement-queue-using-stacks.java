@@ -1,44 +1,41 @@
-import java.util.Stack;
 class MyQueue {
-
     Stack<Integer> main;
     Stack<Integer> helper;
 
     public MyQueue() {
-         main = new Stack<>();
-            helper = new Stack<>();
-
+        main = new Stack<>();
+        helper = new Stack<>();
     }
     
     public void push(int x) {
-            main.push(x);
+        main.push(x);
+    }
+    
+    public int pop() {
+        while(!main.isEmpty()){
+            helper.push(main.pop());
         }
-        
-        public int pop() {
-            while(!main.isEmpty()){
-                helper.push(main.pop());
-            }
-            int removed = helper.pop();
-            while (!helper.isEmpty()) {
-                main.push(helper.pop());
-            }
-        return removed;
+        int popped = helper.pop();
+        while(!helper.isEmpty()){
+            main.push(helper.pop());
         }
-        
-        public int peek() {
-            while(!main.isEmpty()){
-                helper.push(main.pop());
-            }
-            int peeked = helper.peek();
-            while (!helper.isEmpty()) {
-                main.push(helper.pop());
-            }
-            return peeked;
+        return popped;
+    }
+    
+    public int peek() {
+        while(!main.isEmpty()){
+            helper.push(main.pop());
         }
-        
-        public boolean empty() {
-            return main.isEmpty();
+        int top = helper.peek();
+        while(!helper.isEmpty()){
+            main.push(helper.pop());
         }
+        return top;
+    }
+    
+    public boolean empty() {
+        return main.isEmpty();
+    }
 }
 
 /**
