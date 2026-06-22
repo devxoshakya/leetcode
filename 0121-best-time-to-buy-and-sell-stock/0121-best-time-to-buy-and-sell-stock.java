@@ -9,6 +9,5 @@ class Solution {
             maxProfit = Math.max(maxProfit, price - minVal);
         }
         return maxProfit;
-
     }
 }
