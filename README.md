@@ -97,6 +97,7 @@ Collection of LeetCode questions and their solutions.
 | [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/devxoshakya/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
+| [2965-find-missing-and-repeated-values](https://github.com/devxoshakya/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/devxoshakya/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/devxoshakya/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -174,6 +175,7 @@ Collection of LeetCode questions and their solutions.
 | [1635-number-of-good-pairs](https://github.com/devxoshakya/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/devxoshakya/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
+| [2965-find-missing-and-repeated-values](https://github.com/devxoshakya/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/devxoshakya/leetcode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devxoshakya/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/devxoshakya/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions and their solutions.
 | [2367-number-of-arithmetic-triplets](https://github.com/devxoshakya/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/devxoshakya/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/devxoshakya/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3028-ant-on-the-boundary](https://github.com/devxoshakya/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/devxoshakya/leetcode/tree/master/3033-modify-the-matrix) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/devxoshakya/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -657,6 +660,7 @@ Collection of LeetCode questions and their solutions.
 | [1677-matrix-diagonal-sum](https://github.com/devxoshakya/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/devxoshakya/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/devxoshakya/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/devxoshakya/leetcode/tree/master/3033-modify-the-matrix) |
 ## Counting
 |  |
