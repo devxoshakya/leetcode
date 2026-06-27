@@ -198,6 +198,7 @@ Collection of LeetCode questions and their solutions.
 | [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devxoshakya/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devxoshakya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devxoshakya/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devxoshakya/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions and their solutions.
 | [0229-majority-element-ii](https://github.com/devxoshakya/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devxoshakya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devxoshakya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/devxoshakya/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -625,6 +627,7 @@ Collection of LeetCode questions and their solutions.
 | [0222-count-complete-tree-nodes](https://github.com/devxoshakya/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devxoshakya/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devxoshakya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/devxoshakya/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/devxoshakya/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -680,6 +683,7 @@ Collection of LeetCode questions and their solutions.
 | [0073-set-matrix-zeroes](https://github.com/devxoshakya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/devxoshakya/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/devxoshakya/leetcode/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devxoshakya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devxoshakya/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/devxoshakya/leetcode/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
