@@ -223,6 +223,7 @@ Collection of LeetCode questions and their solutions.
 | [0347-top-k-frequent-elements](https://github.com/devxoshakya/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/devxoshakya/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/devxoshakya/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions and their solutions.
 | [0485-max-consecutive-ones](https://github.com/devxoshakya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devxoshakya/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/devxoshakya/leetcode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/devxoshakya/leetcode/tree/master/0682-baseball-game) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions and their solutions.
 | [0135-candy](https://github.com/devxoshakya/leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/devxoshakya/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/devxoshakya/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/devxoshakya/leetcode/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -785,6 +788,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Backtracking
