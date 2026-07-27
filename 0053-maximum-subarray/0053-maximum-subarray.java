@@ -1,15 +1,12 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int windowSum = 0;
-        int maxWindow = Integer.MIN_VALUE;
-        for(int i : nums){
-            windowSum += i;
-            maxWindow = Math.max(windowSum,maxWindow);
-            if(windowSum <= 0){
-                windowSum = 0;
-            }
-
+        int sum = 0;
+        int max = Integer.MIN_VALUE;
+        for(int num : nums){
+            if(sum < 0) sum = 0;
+            sum += num;
+            max = Math.max(sum,max);
         }
-        return maxWindow;
+        return max;
     }
 }
