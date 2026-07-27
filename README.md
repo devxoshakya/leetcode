@@ -400,6 +400,7 @@ Collection of LeetCode questions and their solutions.
 | [1899-count-items-matching-a-rule](https://github.com/devxoshakya/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/devxoshakya/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/devxoshakya/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/devxoshakya/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -485,6 +486,7 @@ Collection of LeetCode questions and their solutions.
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devxoshakya/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxoshakya/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/devxoshakya/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/devxoshakya/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devxoshakya/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2514-count-anagrams](https://github.com/devxoshakya/leetcode/tree/master/2514-count-anagrams) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/devxoshakya/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -662,6 +664,7 @@ Collection of LeetCode questions and their solutions.
 | [1505-create-target-array-in-the-given-order](https://github.com/devxoshakya/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/devxoshakya/leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/devxoshakya/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/devxoshakya/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/devxoshakya/leetcode/tree/master/2058-concatenation-of-array) |
 | [3028-ant-on-the-boundary](https://github.com/devxoshakya/leetcode/tree/master/3028-ant-on-the-boundary) |
