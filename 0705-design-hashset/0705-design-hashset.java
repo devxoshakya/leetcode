@@ -1,27 +1,26 @@
 class MyHashSet {
-
-    LinkedList<Integer>[] chain;
+    List<Integer>[] chain;
     int size = 10000;
 
     public MyHashSet() {
-        chain = new LinkedList[size];
-        for (int i = 0; i < chain.length; i++) {
-            chain[i] = new LinkedList();
-        }
+        chain = new ArrayList[size];
+        for(int i=0; i < size; i++){
+            chain[i] = new ArrayList<>();
+        }    
     }
-
+    
     public void add(int key) {
         int hash = key % size;
-        if (!chain[hash].contains(key)) {
+        if(!chain[hash].contains(key)){
             chain[hash].add(key);
         }
     }
-
+    
     public void remove(int key) {
         int hash = key % size;
         chain[hash].remove(Integer.valueOf(key));
     }
-
+    
     public boolean contains(int key) {
         int hash = key % size;
         return chain[hash].contains(key);
