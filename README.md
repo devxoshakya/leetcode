@@ -893,4 +893,12 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devxoshakya/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devxoshakya/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
