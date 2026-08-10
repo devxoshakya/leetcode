@@ -889,4 +889,8 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devxoshakya/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
