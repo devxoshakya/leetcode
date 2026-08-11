@@ -1,24 +1,27 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        Sort(nums);
-        for(int i=0; i<nums.length; i++){
-            if(i+1 != nums[i]){
-                return i+1;
+        for(int i=0; i < nums.length; i++){
+            if(nums[i] < 0){
+                nums[i] = 0;
             }
         }
-        return nums.length + 1;
-    }
-    static void Sort(int[] a){
-        int i=0;
-        while(i<a.length){
-            int correct = a[i]-1;
-            if(a[i]>0 && a[i]<=a.length && a[i]!=a[correct]){
-                int t = a[i];
-                a[i] = a[correct];
-                a[correct] = t;
-            }else{
-                i++;
+
+        for(int i=0; i < nums.length; i++){
+            int abs = Math.abs(nums[i]);
+            if(abs >= 1 && abs <= nums.length){
+                if(nums[abs-1] > 0){
+                    nums[abs-1] *= -1;
+                } else if(nums[abs-1] == 0){
+                    nums[abs-1] = -1 * (nums.length + 1);
+                }
             }
         }
+
+        for(int i=1; i <= nums.length; i++){
+            if(nums[i-1] >= 0){
+                return i;
+            }
+        }
+        return nums.length+1;
     }
 }
