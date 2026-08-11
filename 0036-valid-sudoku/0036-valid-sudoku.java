@@ -6,10 +6,8 @@ class Solution {
         // validate rows
         for (int i = 0; i < 9; i++) {
             Set<Character> set = new HashSet<>();
-
             for (int j = 0; j < 9; j++) {
                 char item = board[i][j];
-
                 if (item != '.') {
                     if (set.contains(item)) {
                         return false;
@@ -18,7 +16,6 @@ class Solution {
                 }
             }
         }
-
         // validate columns
         for (int i = 0; i < 9; i++) {
             Set<Character> set = new HashSet<>();
@@ -36,16 +33,12 @@ class Solution {
         }
 
         // validate 3x3 boxes
-        for (int boxRow = 0; boxRow < 9; boxRow += 3) {
-            for (int boxCol = 0; boxCol < 9; boxCol += 3) {
-
+        for (int i = 0; i < 9; i += 3) {
+            for (int j = 0; j < 9; j += 3) {
                 Set<Character> set = new HashSet<>();
-
-                for (int i = boxRow; i < boxRow + 3; i++) {
-                    for (int j = boxCol; j < boxCol + 3; j++) {
-
-                        char item = board[i][j];
-
+                for (int row = i; row < i + 3; row++) {
+                    for (int col = j; col < j + 3; col++) {
+                        char item = board[row][col];
                         if (item != '.') {
                             if (set.contains(item)) {
                                 return false;
