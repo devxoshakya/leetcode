@@ -893,6 +893,7 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devxoshakya/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devxoshakya/leetcode/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
