@@ -1,23 +1,22 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> map = new HashMap<>();
+        Map<String,List<String>> map = new HashMap<>();
         for(String s : strs){
             int[] count = new int[26];
             for(char ch : s.toCharArray()){
                 count[ch - 'a']++;
             }
 
-            StringBuilder sb = new StringBuilder();
-            for(int n : count){
-                sb.append(n).append("Jhunnu");
+            StringBuilder key = new StringBuilder();
+            for(int i : count){
+                key.append(i).append("^");
             }
+            String hash = key.toString();
 
-            String key = sb.toString();
-
-            if(!map.containsKey(key)){
-                map.put(key, new ArrayList<>());
+            if(!map.containsKey(hash)){
+                map.put(hash, new ArrayList<>());
             }
-            map.get(key).add(s);
+            map.get(hash).add(s);
         }
 
         return new ArrayList<>(map.values());
