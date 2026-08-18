@@ -388,6 +388,7 @@ Collection of LeetCode questions and their solutions.
 | [1470-shuffle-the-array](https://github.com/devxoshakya/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxoshakya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devxoshakya/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devxoshakya/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devxoshakya/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/devxoshakya/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions and their solutions.
 | [0875-koko-eating-bananas](https://github.com/devxoshakya/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxoshakya/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devxoshakya/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/devxoshakya/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Simulation
 |  |
