@@ -377,6 +377,7 @@ Collection of LeetCode questions and their solutions.
 | [0974-subarray-sums-divisible-by-k](https://github.com/devxoshakya/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxoshakya/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1031-add-to-array-form-of-integer](https://github.com/devxoshakya/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devxoshakya/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -656,6 +657,7 @@ Collection of LeetCode questions and their solutions.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/devxoshakya/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxoshakya/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/devxoshakya/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Simulation
 |  |
