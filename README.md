@@ -227,6 +227,7 @@ Collection of LeetCode questions and their solutions.
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/devxoshakya/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/devxoshakya/leetcode/tree/master/0389-find-the-difference) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devxoshakya/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/devxoshakya/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions and their solutions.
 | [0347-top-k-frequent-elements](https://github.com/devxoshakya/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devxoshakya/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/devxoshakya/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/devxoshakya/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/devxoshakya/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions and their solutions.
 | [0134-gas-station](https://github.com/devxoshakya/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/devxoshakya/leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/devxoshakya/leetcode/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devxoshakya/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/devxoshakya/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/devxoshakya/leetcode/tree/master/0605-can-place-flowers) |
