@@ -933,4 +933,12 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devxoshakya/leetcode/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devxoshakya/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devxoshakya/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
