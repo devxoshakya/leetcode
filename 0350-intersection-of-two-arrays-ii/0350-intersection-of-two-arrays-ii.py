@@ -2,11 +2,11 @@ class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
         m = {}
         ans = []
-        for i in nums1:
-            m[i] = m.get(i,0) + 1
+        for num in nums1:
+            m[num] = 1 + m.get(num,0)
 
-        for j in nums2:
-            if(m.get(j,0) > 0):
-                ans.append(j)
-                m[j] = m.get(j,0) - 1
+        for num in nums2:
+            if m.get(num,0) > 0:
+                ans.append(num)
+                m[num] = m.get(num,0) - 1
         return ans
