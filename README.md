@@ -84,6 +84,7 @@ Collection of LeetCode questions and their solutions.
 | [0496-next-greater-element-i](https://github.com/devxoshakya/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/devxoshakya/leetcode/tree/master/0567-permutation-in-string) |
+| [0697-degree-of-an-array](https://github.com/devxoshakya/leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0817-design-hashmap) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions and their solutions.
 | [0605-can-place-flowers](https://github.com/devxoshakya/leetcode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/devxoshakya/leetcode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/devxoshakya/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/devxoshakya/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/devxoshakya/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/devxoshakya/leetcode/tree/master/0706-design-hashmap) |
