@@ -360,6 +360,7 @@ Collection of LeetCode questions and their solutions.
 | [0274-h-index](https://github.com/devxoshakya/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/devxoshakya/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/devxoshakya/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/devxoshakya/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devxoshakya/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/devxoshakya/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/devxoshakya/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -672,6 +673,7 @@ Collection of LeetCode questions and their solutions.
 | [0268-missing-number](https://github.com/devxoshakya/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/devxoshakya/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/devxoshakya/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/devxoshakya/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/devxoshakya/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devxoshakya/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
@@ -856,6 +858,7 @@ Collection of LeetCode questions and their solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devxoshakya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devxoshakya/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/devxoshakya/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/devxoshakya/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/devxoshakya/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/devxoshakya/leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/devxoshakya/leetcode/tree/master/0647-palindromic-substrings) |
@@ -949,4 +952,8 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/devxoshakya/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/devxoshakya/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
