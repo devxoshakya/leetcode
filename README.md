@@ -149,6 +149,7 @@ Collection of LeetCode questions and their solutions.
 | [0680-valid-palindrome-ii](https://github.com/devxoshakya/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/devxoshakya/leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/devxoshakya/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions and their solutions.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devxoshakya/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/devxoshakya/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/devxoshakya/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/devxoshakya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions and their solutions.
 | [0860-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/devxoshakya/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/devxoshakya/leetcode/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devxoshakya/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -542,6 +545,7 @@ Collection of LeetCode questions and their solutions.
 | [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/devxoshakya/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/devxoshakya/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/devxoshakya/leetcode/tree/master/0881-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devxoshakya/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/devxoshakya/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -961,4 +965,8 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/devxoshakya/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/devxoshakya/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
