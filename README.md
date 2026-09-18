@@ -147,6 +147,7 @@ Collection of LeetCode questions and their solutions.
 | [0567-permutation-in-string](https://github.com/devxoshakya/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/devxoshakya/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/devxoshakya/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/devxoshakya/leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/devxoshakya/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/devxoshakya/leetcode/tree/master/0881-boats-to-save-people) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions and their solutions.
 | [0589-n-ary-tree-preorder-traversal](https://github.com/devxoshakya/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/devxoshakya/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/devxoshakya/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/devxoshakya/leetcode/tree/master/0844-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxoshakya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/devxoshakya/leetcode/tree/master/1544-make-the-string-great) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions and their solutions.
 | [0680-valid-palindrome-ii](https://github.com/devxoshakya/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/devxoshakya/leetcode/tree/master/0742-to-lower-case) |
 | [0819-most-common-word](https://github.com/devxoshakya/leetcode/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/devxoshakya/leetcode/tree/master/0844-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devxoshakya/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/devxoshakya/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devxoshakya/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -704,6 +707,7 @@ Collection of LeetCode questions and their solutions.
 | [0412-fizz-buzz](https://github.com/devxoshakya/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/devxoshakya/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/devxoshakya/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/devxoshakya/leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/devxoshakya/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/devxoshakya/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/devxoshakya/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
