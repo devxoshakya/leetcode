@@ -81,6 +81,7 @@ Collection of LeetCode questions and their solutions.
 | [0409-longest-palindrome](https://github.com/devxoshakya/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/devxoshakya/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0454-4sum-ii](https://github.com/devxoshakya/leetcode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/devxoshakya/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devxoshakya/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/devxoshakya/leetcode/tree/master/0567-permutation-in-string) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions and their solutions.
 | [0380-insert-delete-getrandom-o1](https://github.com/devxoshakya/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devxoshakya/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0454-4sum-ii](https://github.com/devxoshakya/leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/devxoshakya/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/devxoshakya/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/devxoshakya/leetcode/tree/master/0485-max-consecutive-ones) |
