@@ -150,6 +150,7 @@ Collection of LeetCode questions and their solutions.
 | [0557-reverse-words-in-a-string-iii](https://github.com/devxoshakya/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/devxoshakya/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/devxoshakya/leetcode/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/devxoshakya/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/devxoshakya/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/devxoshakya/leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/devxoshakya/leetcode/tree/master/0844-backspace-string-compare) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions and their solutions.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devxoshakya/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/devxoshakya/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
+| [0658-find-k-closest-elements](https://github.com/devxoshakya/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/devxoshakya/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions and their solutions.
 | [0561-array-partition](https://github.com/devxoshakya/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/devxoshakya/leetcode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/devxoshakya/leetcode/tree/master/0622-design-circular-queue) |
+| [0658-find-k-closest-elements](https://github.com/devxoshakya/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/devxoshakya/leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/devxoshakya/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/devxoshakya/leetcode/tree/master/0704-binary-search) |
@@ -704,6 +707,7 @@ Collection of LeetCode questions and their solutions.
 | [0367-valid-perfect-square](https://github.com/devxoshakya/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/devxoshakya/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/devxoshakya/leetcode/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/devxoshakya/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/devxoshakya/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/devxoshakya/leetcode/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devxoshakya/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -833,6 +837,7 @@ Collection of LeetCode questions and their solutions.
 | [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/devxoshakya/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/devxoshakya/leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/devxoshakya/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/devxoshakya/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/devxoshakya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devxoshakya/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -845,6 +850,7 @@ Collection of LeetCode questions and their solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/devxoshakya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/devxoshakya/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/devxoshakya/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/devxoshakya/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
