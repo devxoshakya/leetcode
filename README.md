@@ -987,4 +987,8 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/devxoshakya/leetcode/tree/master/0881-boats-to-save-people) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
