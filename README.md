@@ -1003,4 +1003,8 @@ Collection of LeetCode questions and their solutions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/devxoshakya/leetcode/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devxoshakya/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
